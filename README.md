@@ -1,18 +1,20 @@
 An **Ethereum Dapp**, inspired by Kickstarter web-app.
 
-Contract initiator can request money for project initiation, material shipment transactions. 
-Money contributor has the functionality to approve or reject the payment requests
-All transaction and it's related details are tightly coupled to blockchain and its immutable.
-Details regarding the project and it's history is publicly accessible to everyone.
+- Contract initiator can request money for project initiation, material shipment transactions. 
+- Money contributor has the functionality to approve or reject the payment requests
+- All transaction and it's related details are tightly coupled to blockchain and its immutable.
+- Details regarding the project and it's history is publicly accessible to everyone.
 
-Written in Next.js, utilizing server-side rendering benefits
-Used Semantic UI CSS library for user interface
-Code experimented with fully functional components
-Metamask Wallet used as wallet for integration with Ethereum Ropsten Network
-contracts written in Solidity v0.7.0
+- Written in Next.js, utilizing server-side rendering benefits
+- Used Semantic UI CSS library for user interface
+- Code experimented with fully functional components
+- Metamask Wallet used as wallet for integration with Ethereum Ropsten Network
+- contracts written in Solidity v0.7.0
 
+**Tools used:**
 
-NextJS, Semantic UI, Web3.js, Metamask, Solidity, Truffle
+- NextJS, Semantic UI, Web3.js, Metamask, Solidity, Truffle
+
 
 ## Getting Started
 
